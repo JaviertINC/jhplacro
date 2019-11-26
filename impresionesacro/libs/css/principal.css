@@ -1,0 +1,25 @@
+#cuabo{
+    background: linear-gradient(to bottom right, rgb(10, 10, 10, 0.6), rgb(50, 50, 50, 0.8));
+    background-repeat: no-repeat;
+}
+
+.row{
+    margin: 0!important;
+    padding: 0!important;
+}
+
+.navbar{
+    margin-bottom: 2%;
+}
+
+.card{
+    text-align: center;
+}
+
+.card-header{
+    background-color: rgb(50, 200, 20, 0.5)!important;
+}
+
+.card-body{
+    background-color: rgb(50, 200, 20, 0.7)!important;
+}
